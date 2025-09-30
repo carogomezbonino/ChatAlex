@@ -1,0 +1,5 @@
+{
+  "name": "Teacher Alex's English Chat",
+  "description": "A friendly chatbot for primary school students to learn basic English vocabulary. Ask for a word in Spanish, and Teacher Alex will provide the English translation, pronunciation, and an example sentence.",
+  "requestFramePermissions": []
+}
